@@ -1,0 +1,9 @@
+{
+  "name": "buscador-node",
+  "version": "1.0.0",
+  "description": "Ejercicio",
+  "main": "index.js",
+  "repository": "https://github.com/Grover101/Buscador-Node.js.git",
+  "author": "Grover101 <limachigrover09@gmail.com>",
+  "license": "MIT"
+}

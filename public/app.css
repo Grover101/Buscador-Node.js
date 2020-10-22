@@ -1,0 +1,48 @@
+
+body {
+  background-color: #bdc3c7;
+}
+
+nav div > h4 {
+  margin: 0;
+  padding-top: .5em;
+}
+
+#buscar {
+  margin: 2em 0;
+}
+
+.card-content {
+  padding: 20px !important;
+}
+
+.panel {
+  position: fixed;
+}
+
+.invisible {
+  display: none;
+}
+
+div.lista .card:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+div.lista {
+  max-height: 100%;
+  overflow: scroll;
+}
+
+.lista img {
+  max-width: 250px !important;
+}
+
+#personalizada {
+  margin-top: 1em;
+}
+
+.select-wrapper {
+  width: 50%;
+  margin: 0 auto !important;
+}
